@@ -9,3 +9,5 @@ express framework for Node.js
 ejs - effective js (simple templating)
 body-parser - Node.js body parsing middleware
 mongoose - MongoDB object modeling tool designed to work in an asynchronous environment.
+
+Edit/Update route and form; method-override; destroy route.
